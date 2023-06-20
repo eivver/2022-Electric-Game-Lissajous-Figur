@@ -1,0 +1,13 @@
+.\build\lcd_font.o: ..\..\LCD\LCD_Font.c
+.\build\lcd_font.o: ..\..\LCD\LCD_Font.h
+.\build\lcd_font.o: ..\..\msp432p4xx_lib\ti/devices/msp432p4xx/inc/msp.h
+.\build\lcd_font.o: ..\..\msp432p4xx_lib\ti/devices/msp432p4xx/inc/msp432p401r.h
+.\build\lcd_font.o: D:\Keil_v5\ARM\AC506u7\Bin\..\include\stdint.h
+.\build\lcd_font.o: ..\..\msp432p4xx_lib\ti/devices/msp432p4xx/inc/msp_compatibility.h
+.\build\lcd_font.o: ..\..\msp432p4xx_lib\ti/devices/msp432p4xx/inc/msp432p401r_classic.h
+.\build\lcd_font.o: ..\..\msp432p4xx_lib\CMSIS\Include\core_cm4.h
+.\build\lcd_font.o: ..\..\msp432p4xx_lib\CMSIS\Include\cmsis_version.h
+.\build\lcd_font.o: ..\..\msp432p4xx_lib\CMSIS\Include\cmsis_compiler.h
+.\build\lcd_font.o: ..\..\msp432p4xx_lib\CMSIS\Include\cmsis_armcc.h
+.\build\lcd_font.o: ..\..\msp432p4xx_lib\CMSIS\Include\mpu_armv7.h
+.\build\lcd_font.o: ..\..\msp432p4xx_lib\ti/devices/msp432p4xx/inc/system_msp432p401r.h
